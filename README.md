@@ -19,9 +19,9 @@ The program takes marks as input, validates them, and calculates the student's t
 
 ## Screenshots
 
-![Student Report](PASTE_FIRST_SCREENSHOT_FILENAME_HERE)
+![Student Report](Screenshot%202026-11-10%20132619.png)
 
-![Input Validation](PASTE_SECOND_SCREENSHOT_FILENAME_HERE)
+![Input Validation](Screenshot%202026-11-10%20132434.png)
 
 ## Author
 Satvik
