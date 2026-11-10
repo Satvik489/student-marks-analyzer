@@ -24,4 +24,4 @@ The program takes marks as input, validates them, and calculates the student's t
 ![Input Validation](Screenshot%202026-11-10%20132434.png)
 
 ## Author
-Satvik
+Bobbili Sai Satvik
